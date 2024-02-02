@@ -1,0 +1,21 @@
+{
+	"id": "5c65f0fc-c3aa-4aba-8f38-75349bfac156",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://reqres.in",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Username",
+			"value": "Hashvik",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-02-02T06:23:38.866Z",
+	"_postman_exported_using": "Postman/10.22.9"
+}
